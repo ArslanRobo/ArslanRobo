@@ -96,15 +96,6 @@ class ArslanRafiq:
 
 ---
 
-## 💡 What I'm Currently Learning
-
-- 🧠 Advanced LLM architectures and fine-tuning techniques
-- 🔧 MLOps best practices and model deployment at scale
-- 📱 Edge AI and model optimization for resource-constrained devices
-- 🎯 Causal inference and advanced statistical modeling
-
----
-
 ## 📫 Let's Connect!
 
 I'm always open to interesting conversations and collaboration opportunities!
