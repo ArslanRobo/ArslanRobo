@@ -80,39 +80,7 @@ class ArslanRafiq:
 
 ---
 
-## 🔥 Featured Projects
 
-### 🎯 LLM Optimization for Edge Deployment
-**Tech:** PyTorch, Hugging Face, llama.cpp, CUDA, GGUF
-- Compressed LLaMA-3.1-8B from **15GB → 3.95GB** (73.6% reduction)
-- Achieved **273% decode speedup** (1.16 → 4.33 tokens/sec on CPU)
-- Successfully deployed on **Raspberry Pi 4** with 0.9 tokens/sec generation
-
-### 📹 3D Scene Reconstruction from Monocular Video
-**Tech:** OpenCV, NumPy, Open3D, Matplotlib
-- Built end-to-end CV pipeline with SIFT, RANSAC, essential matrix estimation
-- Reconstructed **7,500+ 3D points** from 200+ video frames
-- Achieved **2-3% geometric error** through multi-view triangulation
-
-### 📈 Large-Scale Stock Market Analysis & Volatility Forecasting
-**Tech:** Dask, Apache Spark, Streamlit, Altair
-- Processed **2.5GB NASDAQ dataset** (28M records, 8K+ tickers)
-- Deployed interactive Streamlit dashboard with 3-day recursive forecasts
-- Engineered scalable pipeline with Parquet compression
-
-### 🎙️ Custom LLM System for Call Center Agent Evaluation
-**Tech:** Whisper, FAISS, Mistral 7B, Gradio
-- Built complete RAG system with speaker diarization
-- Extracted KPIs (empathy, problem resolution, tone)
-- Deployed as Hugging Face Space with Gradio UI
-
-### 🤖 AR-Based Robotic Manipulator Programming
-**Tech:** Unity, C#, SolidWorks, Vuforia, ARCore
-- Developed AR system controlling robotic arm via hand gestures
-- Integrated forward kinematics with Vuforia plane detection
-- Self-taught C# and Unity outside curriculum
-
----
 
 ## 📊 GitHub Stats
 
