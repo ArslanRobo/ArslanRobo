@@ -4,7 +4,7 @@
 
 ### 🤖 AI Engineer | 🎓 MS AI @ LUMS | 🔬 Research Assistant
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/arslan-rafiq](https://www.linkedin.com/in/arslan-robo/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arslan-robo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanrafiq2001@gmail.com)
 [![Location](https://img.shields.io/badge/Lahore-Pakistan-green?style=for-the-badge&logo=google-maps&logoColor=white)]()
 
@@ -118,11 +118,11 @@ class ArslanRafiq:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArslanRobo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanRobo&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArslanRobo&theme=radical&hide_border=true)
 
 </div>
 
@@ -155,7 +155,7 @@ class ArslanRafiq:
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-- 💼 LinkedIn: [linkedin.com/in/arslan-rafiq](https://linkedin.com/in/arslan-rafiq)
+- 💼 LinkedIn: [linkedin.com/in/arslan-robo](https://linkedin.com/in/arslan-robo)
 - 📧 Email: arslanrafiq2001@gmail.com
 - 📍 Location: Lahore, Pakistan
 
@@ -165,6 +165,6 @@ I'm always open to interesting conversations and collaboration opportunities!
   
 ### ⚡ "Building AI systems that work in the real world, not just in notebooks"
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ArslanRobo&color=blueviolet&style=flat-square)
 
 </div>
