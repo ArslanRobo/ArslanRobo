@@ -82,20 +82,6 @@ class ArslanRafiq:
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArslanRobo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArslanRobo&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArslanRobo&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 **🎓 MS Artificial Intelligence** - LUMS (CGPA: 3.838/4.0)  
